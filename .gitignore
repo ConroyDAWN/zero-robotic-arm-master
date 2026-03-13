@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# STM32 / C
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
